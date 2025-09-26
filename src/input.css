@@ -9,3 +9,8 @@
 .jj{
 background: linear-gradient(82.23deg, #36895F -1.99%, #00552F 100%);
 }
+.bg2{
+    background-image: url(./image\ copy.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
